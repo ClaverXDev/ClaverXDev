@@ -13,5 +13,5 @@ Programming is just a way of life...
 
 ### currently
 
-- **building** — a Wayland compositor in Rust
-- **learning** — Wayland internals (send help 😭)
+- **building** — a compiler
+- **learning** — compiler internals... (help)
