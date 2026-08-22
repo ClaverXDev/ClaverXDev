@@ -13,5 +13,5 @@ Programming is just a way of life...
 
 ### currently
 
-- **building** — a compiler
-- **learning** — compiler internals... (help)
+- **building** — a wm
+- **learning** — wayland internals... (help)
