@@ -13,5 +13,4 @@ Programming is just a way of life...
 
 ### currently
 
-- **building** — a wm
-- **learning** — wayland internals... (help)
+trying to contribute to linux-kernel
