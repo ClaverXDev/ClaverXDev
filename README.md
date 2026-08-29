@@ -4,4 +4,4 @@ Programming is just a way of life...
 - mostly into compiler & os stuff — & i love it.
 - lots left to explore, learn, and meet people along the way.
 
-trying to contribute to linux-kernel
+writing a (kernel) from scratch
