@@ -5,3 +5,5 @@ Programming is just a way of life...
 - lots left to explore, learn, and meet people along the way.
 
 writing a (kernel) from scratch
+
+N: every repository I fork must include a contribution from me
